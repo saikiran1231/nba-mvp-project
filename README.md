@@ -22,3 +22,9 @@ Analyze NBA player data using SQL and Excel to find trends, compare eras, and cr
 - Data MVPs align closely with real MVPs.
 
 ## 📂 Structure
+
+nba-mvp-project/
+├─ data/                # all_seasons.csv
+├─ sql/                 # phase1_queries.sql, phase2_queries.sql, phase3_queries.sql
+├─ outputs/             # (optional) exported CSV results
+└─ README.md
